@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "darkerdrifterspawns",
+  "name": "Darker Drifter Spawns",
+  "authors": ["Zach2039"],
+  "description": "Lowers max light level from 9 to 4 for drifter spawns, making it easier to prevent spawns with artifical light.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.17.10"
+  }
+}
