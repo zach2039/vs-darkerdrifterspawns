@@ -1,0 +1,9 @@
+[
+    {
+		"__comment": "Lower max light level so artifical light sources have an easier time blocking bowtorn spawns",
+        "op": "replace",
+        "path": "/server/spawnconditions/runtime/maxLightLevel",
+        "value": 4,
+        "file": "survival:entities/land/bowtorn.json"
+    }
+]
