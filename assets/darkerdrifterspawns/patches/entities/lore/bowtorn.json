@@ -4,6 +4,6 @@
         "op": "replace",
         "path": "/server/spawnconditions/runtime/maxLightLevel",
         "value": 4,
-        "file": "survival:entities/land/bowtorn.json"
+        "file": "game:entities/lore/bowtorn.json"
     }
 ]
